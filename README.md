@@ -10,5 +10,5 @@ QGIS
 ## Procedure
 In Mac 
 - `Preferences` -> ``
-Import your DWG file, select or group.
+Import your DXF/DWG file, select or group.
 
